@@ -1,0 +1,201 @@
+Age Group,City,Used Service,Satisfaction
+18–24,Springfield,No,Dissatisfied
+18–24,Hilldale,No,Very Satisfied
+18–24,Rivertown,Yes,Neutral
+35–44,Brookfield,No,Neutral
+45–54,Brookfield,Yes,Very Dissatisfied
+55–64,Hilldale,No,Very Satisfied
+55–64,Mapleton,Yes,Dissatisfied
+55–64,Springfield,Yes,Dissatisfied
+35–44,Mapleton,Yes,Dissatisfied
+18–24,Hilldale,No,Neutral
+55–64,Hilldale,Yes,Very Satisfied
+25–34,Brookfield,No,Dissatisfied
+18–24,Hilldale,No,Very Dissatisfied
+35–44,Brookfield,Yes,Neutral
+65+,Springfield,No,Neutral
+55–64,Mapleton,No,Dissatisfied
+25–34,Rivertown,Yes,Dissatisfied
+35–44,Springfield,No,Neutral
+35–44,Mapleton,Yes,Neutral
+18–24,Rivertown,Yes,Neutral
+55–64,Mapleton,No,Dissatisfied
+55–64,Rivertown,Yes,Very Satisfied
+55–64,Brookfield,Yes,Dissatisfied
+18–24,Brookfield,Yes,Dissatisfied
+35–44,Rivertown,Yes,Neutral
+45–54,Rivertown,Yes,Satisfied
+55–64,Mapleton,No,Very Satisfied
+55–64,Mapleton,Yes,Satisfied
+18–24,Hilldale,No,Neutral
+45–54,Rivertown,Yes,Satisfied
+65+,Hilldale,Yes,Satisfied
+18–24,Mapleton,Yes,Dissatisfied
+35–44,Brookfield,No,Dissatisfied
+55–64,Brookfield,No,Dissatisfied
+25–34,Rivertown,No,Satisfied
+45–54,Springfield,Yes,Very Satisfied
+55–64,Hilldale,No,Dissatisfied
+35–44,Rivertown,No,Very Dissatisfied
+18–24,Brookfield,No,Neutral
+18–24,Hilldale,No,Satisfied
+55–64,Springfield,Yes,Dissatisfied
+45–54,Hilldale,No,Very Dissatisfied
+45–54,Brookfield,Yes,Dissatisfied
+18–24,Hilldale,No,Very Satisfied
+65+,Hilldale,Yes,Dissatisfied
+18–24,Brookfield,Yes,Dissatisfied
+18–24,Rivertown,No,Very Dissatisfied
+25–34,Springfield,Yes,Dissatisfied
+65+,Brookfield,Yes,Neutral
+65+,Rivertown,No,Satisfied
+25–34,Springfield,No,Satisfied
+55–64,Brookfield,Yes,Very Satisfied
+55–64,Mapleton,No,Neutral
+55–64,Springfield,No,Satisfied
+25–34,Rivertown,Yes,Satisfied
+25–34,Springfield,No,Neutral
+45–54,Rivertown,No,Very Dissatisfied
+18–24,Hilldale,No,Dissatisfied
+35–44,Mapleton,Yes,Satisfied
+55–64,Springfield,No,Very Satisfied
+35–44,Brookfield,Yes,Very Dissatisfied
+35–44,Brookfield,Yes,Very Satisfied
+45–54,Mapleton,No,Satisfied
+25–34,Brookfield,Yes,Very Dissatisfied
+55–64,Rivertown,No,Very Dissatisfied
+18–24,Hilldale,No,Neutral
+25–34,Rivertown,Yes,Very Dissatisfied
+65+,Rivertown,No,Very Satisfied
+45–54,Hilldale,Yes,Satisfied
+35–44,Springfield,Yes,Neutral
+35–44,Springfield,Yes,Dissatisfied
+18–24,Springfield,No,Satisfied
+25–34,Mapleton,No,Neutral
+18–24,Rivertown,No,Very Satisfied
+18–24,Rivertown,Yes,Dissatisfied
+18–24,Mapleton,No,Very Dissatisfied
+55–64,Brookfield,No,Neutral
+55–64,Mapleton,Yes,Very Dissatisfied
+18–24,Springfield,No,Dissatisfied
+45–54,Hilldale,Yes,Very Satisfied
+25–34,Hilldale,Yes,Very Satisfied
+35–44,Rivertown,Yes,Neutral
+18–24,Mapleton,Yes,Neutral
+25–34,Rivertown,No,Neutral
+55–64,Hilldale,No,Satisfied
+25–34,Springfield,No,Very Satisfied
+55–64,Mapleton,No,Very Satisfied
+65+,Rivertown,Yes,Dissatisfied
+45–54,Brookfield,No,Satisfied
+55–64,Brookfield,Yes,Very Dissatisfied
+65+,Springfield,No,Very Dissatisfied
+18–24,Mapleton,Yes,Very Dissatisfied
+18–24,Springfield,No,Very Satisfied
+65+,Springfield,Yes,Dissatisfied
+45–54,Rivertown,Yes,Neutral
+35–44,Brookfield,Yes,Satisfied
+35–44,Rivertown,Yes,Neutral
+45–54,Springfield,No,Very Satisfied
+25–34,Springfield,No,Neutral
+25–34,Springfield,Yes,Satisfied
+25–34,Springfield,No,Very Dissatisfied
+65+,Springfield,Yes,Satisfied
+25–34,Rivertown,Yes,Neutral
+18–24,Springfield,No,Neutral
+55–64,Brookfield,No,Very Satisfied
+25–34,Brookfield,No,Satisfied
+45–54,Springfield,No,Neutral
+35–44,Hilldale,No,Neutral
+45–54,Springfield,Yes,Neutral
+35–44,Hilldale,Yes,Very Satisfied
+25–34,Mapleton,Yes,Dissatisfied
+35–44,Mapleton,No,Satisfied
+65+,Brookfield,No,Very Satisfied
+45–54,Springfield,Yes,Dissatisfied
+55–64,Brookfield,Yes,Very Satisfied
+25–34,Mapleton,No,Neutral
+25–34,Mapleton,No,Very Satisfied
+65+,Mapleton,No,Very Satisfied
+18–24,Brookfield,Yes,Neutral
+18–24,Brookfield,Yes,Satisfied
+18–24,Springfield,Yes,Neutral
+18–24,Rivertown,No,Neutral
+65+,Springfield,Yes,Very Dissatisfied
+55–64,Brookfield,No,Very Dissatisfied
+65+,Springfield,Yes,Very Satisfied
+65+,Brookfield,Yes,Satisfied
+55–64,Hilldale,No,Dissatisfied
+65+,Springfield,No,Dissatisfied
+35–44,Rivertown,No,Dissatisfied
+65+,Mapleton,No,Very Dissatisfied
+35–44,Brookfield,No,Very Dissatisfied
+25–34,Hilldale,Yes,Very Satisfied
+55–64,Springfield,Yes,Satisfied
+18–24,Rivertown,Yes,Very Dissatisfied
+45–54,Hilldale,Yes,Satisfied
+18–24,Mapleton,Yes,Very Satisfied
+65+,Brookfield,No,Satisfied
+65+,Rivertown,Yes,Very Satisfied
+35–44,Rivertown,No,Very Dissatisfied
+45–54,Springfield,Yes,Satisfied
+55–64,Hilldale,Yes,Very Dissatisfied
+65+,Brookfield,Yes,Neutral
+45–54,Springfield,Yes,Very Satisfied
+55–64,Mapleton,Yes,Satisfied
+25–34,Hilldale,No,Very Dissatisfied
+55–64,Mapleton,No,Satisfied
+65+,Rivertown,Yes,Very Satisfied
+55–64,Brookfield,No,Very Dissatisfied
+65+,Rivertown,Yes,Satisfied
+35–44,Brookfield,No,Dissatisfied
+35–44,Springfield,Yes,Dissatisfied
+45–54,Mapleton,No,Satisfied
+45–54,Hilldale,No,Very Dissatisfied
+65+,Springfield,Yes,Very Dissatisfied
+45–54,Hilldale,No,Very Satisfied
+65+,Brookfield,No,Very Dissatisfied
+25–34,Mapleton,No,Very Dissatisfied
+25–34,Hilldale,No,Very Satisfied
+65+,Mapleton,Yes,Very Dissatisfied
+65+,Springfield,Yes,Dissatisfied
+35–44,Rivertown,No,Dissatisfied
+18–24,Mapleton,No,Very Dissatisfied
+18–24,Hilldale,No,Satisfied
+25–34,Rivertown,Yes,Very Satisfied
+65+,Brookfield,No,Very Dissatisfied
+18–24,Rivertown,Yes,Satisfied
+45–54,Hilldale,No,Satisfied
+45–54,Springfield,No,Very Dissatisfied
+18–24,Springfield,Yes,Very Satisfied
+35–44,Rivertown,No,Very Satisfied
+45–54,Springfield,No,Very Satisfied
+25–34,Mapleton,No,Very Dissatisfied
+25–34,Brookfield,No,Very Dissatisfied
+25–34,Brookfield,Yes,Very Satisfied
+65+,Mapleton,Yes,Satisfied
+25–34,Brookfield,Yes,Very Dissatisfied
+55–64,Brookfield,Yes,Very Dissatisfied
+65+,Hilldale,Yes,Dissatisfied
+65+,Springfield,Yes,Very Satisfied
+45–54,Hilldale,No,Satisfied
+18–24,Rivertown,Yes,Satisfied
+35–44,Mapleton,No,Neutral
+35–44,Rivertown,Yes,Satisfied
+18–24,Brookfield,No,Very Satisfied
+55–64,Rivertown,No,Very Satisfied
+18–24,Springfield,Yes,Satisfied
+35–44,Brookfield,No,Very Satisfied
+25–34,Hilldale,No,Very Dissatisfied
+35–44,Hilldale,No,Satisfied
+25–34,Hilldale,No,Very Satisfied
+55–64,Brookfield,No,Dissatisfied
+18–24,Brookfield,Yes,Dissatisfied
+25–34,Mapleton,No,Very Dissatisfied
+18–24,Hilldale,No,Very Dissatisfied
+45–54,Hilldale,Yes,Neutral
+25–34,Brookfield,No,Neutral
+55–64,Springfield,Yes,Very Dissatisfied
+35–44,Mapleton,No,Satisfied
+55–64,Rivertown,Yes,Neutral
+45–54,Rivertown,Yes,Very Satisfied
