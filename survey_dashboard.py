@@ -17,7 +17,8 @@ filtered_df = df[(df["City"].isin(city_filter)) & (df["Age Group"].isin(age_filt
 # Satisfaction Pie Chart
 st.subheader("Satisfaction Distribution")
 satisfaction_count = filtered_df["Satisfaction"].value_counts().reset_index()
-fig = px.pie(satisfaction_count, values="Satisfaction", names="index", title="Satisfaction Ratings")
+satisfaction_count.columns = ["Satisfaction Level", "Count"]
+fig = px.pie(satisfaction_count, values="Count", names="Satisfaction Level", title="Satisfaction Ratings")
 st.plotly_chart(fig, use_container_width=True)
 
 # Usage Bar Chart
